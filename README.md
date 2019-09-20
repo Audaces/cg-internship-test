@@ -7,7 +7,7 @@ Se você não conseguir completar o teste, não tem problema! Este não é um te
 Para executar o teste, você precisa realizar três etapas:
 1.  Configurar e compilar um projeto com OpenGL;
 2.  Mudar o código para desenhar um triângulo;
-3.  Alterar a cor do triângulo.
+3.  Alterar a cor do triângulo. (Opcional)
 
 ------------------
 
@@ -24,7 +24,7 @@ Caso você não esteja usando o Windows ou não queira instalar o Visual Studio,
 
 Usando o projeto configurado no estágio anterior, altere o código no arquivo "src/main.cc" de forma a fazer esse programa desenhar um triângulo branco na tela.
 
-**3. Alterar a cor do triângulo**
+**3. Alterar a cor do triângulo** (Opcional)
 
 Usando as referências abaixo, tente identificar no código onde a cor do triângulo é definida.
 Em seguida, modifique o código de forma que o triângulo seja desenhado na cor amarela.
